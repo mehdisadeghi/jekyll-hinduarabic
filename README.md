@@ -1,3 +1,6 @@
+# Maintenance Note
+Unmaintained. I'm not using this anymore and it's just a few lines that could be added to Jekyll's plugin folder easily.
+
 jekyll-hinduarabic [![Gem Version](https://badge.fury.io/rb/jekyll-hinduarabic.svg)](https://badge.fury.io/rb/jekyll-hinduarabic)
 ============
 
